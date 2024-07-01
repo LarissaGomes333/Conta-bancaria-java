@@ -12,12 +12,13 @@ Exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o segui
 
 ### 
 
-| Atributo | Tipo | Exemplo |
-| :---: || :---: || :---: |
-| Numero | Inteiro | 1021 |
-| Agencia | Texto |067-8 |
-| Nome Cliente | Texto | MARIO ANDRADE |
-| Saldo | Decimal | 337.48 |
+
+| Atributo      | Tipo           |  Exemplo |
+| :---:         |     :---:      |          :---: |
+| Numero        | Inteiro        | 1021    |
+| Agencia       | Texto          | 067-8     |
+| Nome Cliente  | Texto          | MARIO ANDRADE    |
+| Saldo         | Decimal        | 337.48     |
 
 
 ### 
